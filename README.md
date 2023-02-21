@@ -1,4 +1,4 @@
-![cover](githubPages.png)
+![cover](githubPagesNew.png)
 
 # BlackMoFan's Portfolio
 [https://blackmofan.github.io/](https://blackmofan.github.io/)
